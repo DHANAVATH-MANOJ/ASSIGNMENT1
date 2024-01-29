@@ -1,0 +1,36 @@
+input{
+  display: flex;
+  padding: 6px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 2px solid black;
+}
+#good
+{
+  background-image: url(./badminton.jpg);
+}
+#color{
+  color: red;
+}
+#manoj{
+  padding: 20px;
+  border:5px solid black;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  text-align: left;
+  margin-left: 300px;
+  margin-right: 300px;
+  background-color: rgba(69, 57, 162, 0.7);
+  font-family:Arial, Helvetica, sans-serif;
+}
+#gender{
+  padding: 9px;
+  border:3px solid black;
+}
+#submit{
+  padding:3px;
+  margin-top: 30px;
+  margin-left: 310px;
+  margin-right: 310px;
+}
